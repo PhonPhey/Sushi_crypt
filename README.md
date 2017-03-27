@@ -1,2 +1,2 @@
 # Sushi_crypt
-Drawt copy shushi cryptographic algorithm
+Drawt copy sushi cryptographic algorithm
